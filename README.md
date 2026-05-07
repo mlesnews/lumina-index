@@ -97,6 +97,15 @@ See LICENSE file in each repository.
 - **Organization:** [@mlesnews](https://github.com/mlesnews)
 - **Core Repository:** [lumina-core](https://github.com/mlesnews/lumina-core)
 
+
+## 🔄 Active development
+
+This repo is a **2026-02-08 snapshot** kept as reviewer evidence. Active Lumina development happens in:
+- **[lumina-oss](https://github.com/mlesnews/lumina-oss)** — AI-native workflow primitives
+- **[lumina-homelab](https://github.com/mlesnews/lumina-homelab)** — Defensive AI homelab plugin
+
+See [`SYNC_STATUS.md`](./SYNC_STATUS.md) for full mirror status.
+
 ---
 
 **Built with ❤️ using Claude Sonnet 4.5**
